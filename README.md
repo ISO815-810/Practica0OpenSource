@@ -2,11 +2,11 @@
 Aqui se encontraran los programas push y pull de la practica 0 perteneciente a la materia ISO-815. Integración de aplicaciones con Tecnologia Open Source
 
 
-# Practica0Push
+## Practica0Push
 Esta creada en consola, y la misma genera el archivo csv, separado por comas para que el otro programa pull lo lea...
 
-# APAP-Pull
-Esta creada en Web con JSP/Servlet, la misma va a buscar el archivo y leerlo, almacenarlo en la BBDD y presentarlo en la app
+## APAP-Pull
+Esta creada con una aplicacion Web con JSP/Servlets, utilizando materialize, la misma va a buscar el archivo y leerlo, almacenarlo en la BBDD y presentarlo en la app.
 
 ## Getting Started
 
