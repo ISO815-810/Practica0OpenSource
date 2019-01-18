@@ -5,6 +5,9 @@ Aqui se encontraran los programas push y pull de la practica 0 perteneciente a l
 # Practica0Push
 Esta creada en consola, y la misma genera el archivo csv, separado por comas para que el otro programa pull lo lea...
 
+# APAP-Pull
+Esta creada en Web con JSP/Servlet, la misma va a buscar el archivo y leerlo, almacenarlo en la BBDD y presentarlo en la app
+
 ## Getting Started
 
 If you are interested in trying the code of our application, you can make a clone to the repository.
